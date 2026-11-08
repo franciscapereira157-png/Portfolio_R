@@ -1,6 +1,6 @@
 Welcome to my repository :)
 
-Here I have a reproducible R workflow which creates a plot comparing operating characteristics different scenarios
+Here I have a reproducible R workflow which creates a plot comparing operating characteristics of different scenarios
 
 That includes a {targets} pipeline with a seed defined for reproducibility.
 
