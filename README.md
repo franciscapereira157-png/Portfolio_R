@@ -2,6 +2,8 @@
 
 Welcome! This repository provides a reproducible R pipeline for comparing the operating characteristics of various scenarios.
 
+> **Note on Study Design:** All sample size calculations and power curves in this workflow assume a **one-sided hypothesis test**.
+
 ### How to Run
 
 1. **Restore dependencies:** `renv::restore()`
