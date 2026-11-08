@@ -2,7 +2,7 @@
 library(targets)
 
 tar_option_set(
-  packages = c("tidyr", "dplyr", "ggplot2" )
+  packages = c("tidyr", "dplyr", "ggplot2")
 )
 
 tar_source()

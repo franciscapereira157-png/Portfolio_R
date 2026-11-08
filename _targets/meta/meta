@@ -1,11 +1,11 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-scenarios_df|stem|33854d1d72f5b3aa|7bd32ed30795c037|5c0d1e678394d995|123701295||t20765.6420476749s|s190b|190|rds|local|vector|||0||
-operating_characteristics|stem|2d791e30003c6c70|9ff03b2bd99742f1|8c4a952c8195ab7b|223337243||t20765.642049664s|s323b|323|rds|local|vector|||0.04||
-figure|stem|be6197fb5fc828a5|996f629e0a3aa3f2|1057cdc1038fcb22|-1716908793||t20765.642053639s|s233368b|233368|rds|local|vector|||0.09||
+scenarios_df|stem|bcc715868878fbd6|7bd32ed30795c037|2bfb0a451db7da5d|123701295||t20765.703883349s|s205b|205|rds|local|vector|||0||
+operating_characteristics|stem|1403fe4f9d7f372a|9ff03b2bd99742f1|2d4e66bee6d09ae3|223337243||t20765.7038859842s|s440b|440|rds|local|vector|||0.11||
 alpha|object|53a06b99e94c70cf
 scenarios|function|55e687dc2b4c85df
-delta|object|4ad72fc648138974
+delta|object|06128f286f4901ae
 power|object|8db8ca94cfb65a7c
 sd|object|9f0cda529028d8d9
-plot_df|function|50123861d308a555
-computation|function|3440fb3a820658f7
+plot_df|function|8c9ee0de48831df1
+computation|function|518009bdd5e30bc2
+figure|stem|f5f472ebd7326ae1|996f629e0a3aa3f2|11c0c532849297b8|-1716908793||t20765.7064900872s|s233857b|233857|rds|local|vector|||0.23||
