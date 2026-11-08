@@ -1,9 +1,13 @@
-Welcome to my repository :)
+# Operating Characteristics Simulation Workflow
 
-Here I have a reproducible R workflow which creates a plot comparing operating characteristics of different scenarios
+Welcome! This repository provides a reproducible R pipeline for comparing the operating characteristics of various scenarios.
 
-That includes a {targets} pipeline with a seed defined for reproducibility.
+### How to Run
 
-And a {renv} file for reproducibility.
+1. **Restore dependencies:** `renv::restore()`
+2. **Execute pipeline:** `targets::tar_make()`
+3. **View result:** `targets::tar_read(figure)`
 
-Use renv::restore() and then run targets::tar_make() and then targets::tar_read(figure)
+### Reproducibility Notes
+* R package versions are locked via `renv.lock`.
+* Pipeline execution and random seeds are managed via `{targets}`.
