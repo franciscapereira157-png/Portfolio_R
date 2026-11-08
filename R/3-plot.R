@@ -1,5 +1,9 @@
 library(ggplot2)
 
+
+# Plot function -----------------------------------------------------------
+#Takes the data frame with operating characteristics and produces a plot
+
 plot_df <- function(df) {
   ggplot(
     data = df,
