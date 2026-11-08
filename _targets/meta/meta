@@ -1,4 +1,7 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+scenarios_df|stem|33854d1d72f5b3aa|7bd32ed30795c037|5c0d1e678394d995|123701295||t20765.6420476749s|s190b|190|rds|local|vector|||0||
+operating_characteristics|stem|2d791e30003c6c70|9ff03b2bd99742f1|8c4a952c8195ab7b|223337243||t20765.642049664s|s323b|323|rds|local|vector|||0.04||
+figure|stem|be6197fb5fc828a5|996f629e0a3aa3f2|1057cdc1038fcb22|-1716908793||t20765.642053639s|s233368b|233368|rds|local|vector|||0.09||
 alpha|object|53a06b99e94c70cf
 scenarios|function|55e687dc2b4c85df
 delta|object|4ad72fc648138974
@@ -6,6 +9,3 @@ power|object|8db8ca94cfb65a7c
 sd|object|9f0cda529028d8d9
 plot_df|function|50123861d308a555
 computation|function|3440fb3a820658f7
-scenarios_df|stem|33854d1d72f5b3aa|7bd32ed30795c037|5c0d1e678394d995|123701295||t20765.6420476749s|s190b|190|rds|local|vector|||0||
-operating_characteristics|stem|2d791e30003c6c70|9ff03b2bd99742f1|8c4a952c8195ab7b|223337243||t20765.642049664s|s323b|323|rds|local|vector|||0.04||
-figure|stem|be6197fb5fc828a5|996f629e0a3aa3f2|1057cdc1038fcb22|-1716908793||t20765.642053639s|s233368b|233368|rds|local|vector|||0.09||
