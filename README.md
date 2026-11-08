@@ -10,4 +10,4 @@ Welcome! This repository provides a reproducible R pipeline for comparing the op
 
 ### Reproducibility Notes
 * R package versions are locked via `renv.lock`.
-* Pipeline execution and random seeds are managed via `{targets}`.
+* Pipeline execution is managed via `{targets}`.

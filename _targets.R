@@ -9,7 +9,8 @@ library(targets)
 
 # Set target options:
 tar_option_set(
-  packages = c("tidyr", "dplyr", "ggplot2" )
+  packages = c("tidyr", "dplyr", "ggplot2" ),
+  
   # format = "qs", # Optionally set the default storage format. qs is fast.
   #
   # Pipelines that take a long time to run may benefit from
